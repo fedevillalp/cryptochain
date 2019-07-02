@@ -13,10 +13,10 @@ class Blockchain{
         });
 
         this.chain.push(newBlock);
+        
     }
 
     replaceChain(chain){
-        
         if(chain.length <= this.chain.length){
             console.error('The incoming chain must be larger',chain);
             return;
