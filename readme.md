@@ -1,4 +1,4 @@
-# DECENTRALIZED CONSENSUS - CRYPTOGRAPY
+# DECENTRALIZED CONSENSUS 
 
 # Coding a Crypto-currency from scratch
 
